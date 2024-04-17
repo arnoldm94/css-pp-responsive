@@ -1,0 +1,37 @@
+*{margin: 0;
+padding: 0;
+
+}
+body{
+border-color: black;
+border: solid;
+padding: 10px;
+margin: 10px;
+
+}
+header{
+background-color: rgb(115, 154, 220);
+padding: 10px;
+
+}
+
+nav.hero{
+background-color: red;
+height: 50px;
+padding: 10px;
+}
+
+article{
+background-color: green;
+height: 70px;
+padding: 10px;
+}
+nav.sidebar{
+background-color: blueviolet;
+height: 30px;
+padding: 10px;
+}
+footer{
+background-color: grey;
+padding: 10px;
+}
